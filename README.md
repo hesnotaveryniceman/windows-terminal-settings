@@ -9,7 +9,7 @@
 ### Install Instructions
 Not tested yet:
 ```
-git clone https://github.com/rickstaa/windows-terminal-settings
+git clone https://github.com/hesnotaveryniceman/windows-terminal-settings
 cd windows-terminal-settings
 copy C:\Users\<USER_NAME>\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json C:\Users\<USER_NAME>\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json.bak
 rmdir C:\Users\<USER_NAME>\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json
